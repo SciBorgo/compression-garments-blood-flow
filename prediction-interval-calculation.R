@@ -1,7 +1,7 @@
 
 
 # Do Sports Compression Garments Alter Measures of Peripheral Blood Flow? A Systematic Review with Meta-Analysis
-# Calculate prediction intervals for figures 1 to 6
+# Calculate prediction intervals for figures 2 to 6
 
 # Packages
 library(dplyr)
